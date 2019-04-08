@@ -1,0 +1,19 @@
+head,
+body {
+    margin: auto;
+    padding: 30px;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+.card-header,
+#submit,
+.jumbotron {
+    background: rgb(46, 121, 233);
+    color: white;
+}
+thead, .card-body {
+    font-weight: bold;
+}
